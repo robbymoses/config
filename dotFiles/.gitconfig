@@ -1,0 +1,5 @@
+[user]
+	name = Robert Moses
+	email = rmoses@titaniumbytes.com
+[core]
+	sshCommand = /mnt/c/Windows/System32/OpenSSH/ssh.exe
